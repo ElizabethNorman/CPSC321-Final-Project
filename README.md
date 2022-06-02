@@ -4,6 +4,8 @@ This is the fake file system created for my Operating Systems class. I was reall
 The code could use some refactoring in places, and I was going to fix it before uploading, but decided to keep it.
 This is what I did in a week with very little C experience and a lot of end of semester pressure weighing down on me.
 
+The following is copied verbatim from the assignment submission README
+
 ### Instructions:
 
 
